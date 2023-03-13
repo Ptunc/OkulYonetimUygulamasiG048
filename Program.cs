@@ -8,6 +8,7 @@ namespace OkulYonetimUygulamasiG048
         {
             Uygulama uyg = new Uygulama();
             new Uygulama().Calistir();
+            afakslfjslfkshfkjfj
             
         }
     }
